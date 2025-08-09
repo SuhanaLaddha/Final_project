@@ -1,0 +1,8 @@
+twilio
+requests
+beautifulsoup4
+Pillow
+psutil
+googlesearch-python
+boto3
+paramiko
